@@ -1,5 +1,10 @@
 # Install nginx
 
+## Stop the apache service if installed
+```
+sudo systemctl disable apache2 
+```
+
 ## Install
 ```
 sudo apt update
