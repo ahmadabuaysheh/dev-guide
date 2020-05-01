@@ -14,5 +14,11 @@ Virtual Box must start as GUI
 virtualbox
 ```
 
+### Install vagrant 
+Download .deb file from the following link: https://www.vagrantup.com/downloads.html
+
+```Shell
+vagrant --version 
+```
 
 
