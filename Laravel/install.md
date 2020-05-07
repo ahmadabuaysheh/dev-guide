@@ -19,3 +19,13 @@ source ~/.bashrc
 ```Shell
 source ~/.zshrc
 ```
+
+### Create a new project
+```
+laravel new folder_name
+```
+
+Change directory permissions
+```
+
+```
